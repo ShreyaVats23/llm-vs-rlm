@@ -3,13 +3,6 @@
 > **Does passing the full reasoning context between agents produce better answers than passing just the task string?**
 > This repository answers that empirically.
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
-[![Model](https://img.shields.io/badge/Model-Llama--3.1--8B--Instant-FF6B35?style=flat-square)](https://groq.com)
-[![Provider](https://img.shields.io/badge/API-Groq%20%7C%20Gemini%20%7C%20OpenAI-00A67E?style=flat-square)](https://groq.com)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-IEEE%20Format-B31B1B?style=flat-square)](https://github.com/ShreyaVats23/rlm-vs-llm)
-
----
 
 ## What This Is
 
